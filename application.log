@@ -1,0 +1,15 @@
+2026-09-22 10:00:01 [INFO] Server started successfully.
+2026-09-22 10:00:05 [INFO] User login successful for user_id=1024.
+2026-09-22 10:00:15 [ERROR] HTTP 500 Internal Server Error: Failed to load user profile.
+2026-09-22 10:01:00 [INFO] Processing payment for transaction_id=A92J3.
+2026-09-22 10:01:30 [ERROR] Database Timeout: Query exceeded maximum execution time of 30s.
+2026-09-22 10:02:10 [INFO] Scheduled backup completed.
+2026-09-22 10:03:05 [INFO] User logout successful for user_id=1024.
+2026-09-22 10:05:00 [ERROR] HTTP 500 Internal Server Error: Service unavailable while fetching recommendations.
+2026-09-22 10:06:12 [INFO] New user registered: user_id=1025.
+2026-09-22 10:10:45 [ERROR] Database Timeout: Connection to DB replica lost.
+2026-09-22 10:12:00 [INFO] API rate limit check passed.
+2026-09-22 10:15:30 [INFO] Cache cleared for memory optimization.
+2026-09-22 10:18:22 [ERROR] HTTP 500 Internal Server Error: Null pointer exception in payment module.
+2026-09-22 10:20:00 [INFO] Health check passed: All systems operational.
+2026-09-22 10:25:00 [ERROR] Database Timeout: Deadlock detected in user_sessions table.
